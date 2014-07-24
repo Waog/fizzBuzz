@@ -1,0 +1,36 @@
+{
+  "name": "FizzBuzz",
+  "version": "0.0.1",
+  "description": "Code Kata: FizzBuzz",
+  "main": "index.html",
+  "dependencies": {
+    "karma": "^0.12.17",
+    "karma-chrome-launcher": "^0.1.4",
+    "karma-jasmine": "^0.1.5"
+  },
+  "devDependencies": {
+    "karma": "^0.12.17",
+    "karma-chrome-launcher": "^0.1.4",
+    "karma-jasmine": "^0.1.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Waog/fizzBuzz"
+  },
+  "keywords": [
+    "code",
+    "kata",
+    "fizzBuzz",
+    "html5",
+    "html"
+  ],
+  "author": "Waog",
+  "license": "none",
+  "bugs": {
+    "url": "https://github.com/Waog/fizzBuzz/issues"
+  },
+  "homepage": "https://github.com/Waog/fizzBuzz"
+}

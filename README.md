@@ -1,4 +1,12 @@
 kata-fizzBuzz
 =============
 
-My repository for the fizz buzz code kata.
+Code Kata: Fizz Buzz
+
+
+Installation
+---------------
+First make sure you have *npm* installed.
+
+Use the command line and navigate to the *WebContent* folder.
+From there type `npm install`.
